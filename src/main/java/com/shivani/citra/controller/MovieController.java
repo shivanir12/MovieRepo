@@ -1,4 +1,4 @@
-package Movie;
+package com.shivani.citra.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
