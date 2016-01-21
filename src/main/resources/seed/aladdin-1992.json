@@ -1,0 +1,28 @@
+{
+    "id": "170",
+    "url": "https://yts.ag/movie/aladdin-1992",
+    "imdb_code": "tt0103639",
+    "title": "Aladdin",
+    "title_long": "Aladdin (1992)",
+    "slug": "aladdin-1992",
+    "year": "1992",
+    "rating": "8.00",
+    "runtime": "90",
+    "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Musical",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "G",
+    "background_image": "aladdin-1992-background.jpg",
+    "small_cover_image": "aladdin-1992-small-cover.jpg",
+    "medium_cover_image": "aladdin-1992-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:12:53",
+    "date_uploaded_unix": 1446340373
+}

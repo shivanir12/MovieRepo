@@ -1,0 +1,25 @@
+{
+    "id": "52",
+    "url": "https://yts.ag/movie/47-ronin-2013",
+    "imdb_code": "tt1335975",
+    "title": "47 Ronin",
+    "title_long": "47 Ronin (2013)",
+    "slug": "47-ronin-2013",
+    "year": "2013",
+    "rating": "6.30",
+    "runtime": "119",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "47-ronin-2013-background.jpg",
+    "small_cover_image": "47-ronin-2013-small-cover.jpg",
+    "medium_cover_image": "47-ronin-2013-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:54:19",
+    "date_uploaded_unix": 1446339259
+}

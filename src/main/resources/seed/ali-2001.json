@@ -1,0 +1,24 @@
+{
+    "id": "176",
+    "url": "https://yts.ag/movie/ali-2001",
+    "imdb_code": "tt0248667",
+    "title": "Ali",
+    "title_long": "Ali (2001)",
+    "slug": "ali-2001",
+    "year": "2001",
+    "rating": "6.80",
+    "runtime": "157",
+    "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "ali-2001-background.jpg",
+    "small_cover_image": "ali-2001-small-cover.jpg",
+    "medium_cover_image": "ali-2001-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:13:34",
+    "date_uploaded_unix": 1446340414
+}

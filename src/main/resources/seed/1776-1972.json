@@ -1,0 +1,25 @@
+{
+    "id": "17",
+    "url": "https://yts.ag/movie/1776-1972",
+    "imdb_code": "tt0068156",
+    "title": "1776",
+    "title_long": "1776 (1972)",
+    "slug": "1776-1972",
+    "year": "1972",
+    "rating": "7.60",
+    "runtime": "141",
+    "genres": [
+        "Drama",
+        "Family",
+        "History",
+        "Musical"
+    ],
+    "language": "English",
+    "mpa_rating": "G",
+    "background_image": "1776-1972-background.jpg",
+    "small_cover_image": "1776-1972-small-cover.jpg",
+    "medium_cover_image": "1776-1972-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:47:57",
+    "date_uploaded_unix": 1446338877
+}

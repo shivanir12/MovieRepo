@@ -1,0 +1,24 @@
+{
+    "id": "76",
+    "url": "https://yts.ag/movie/a-clockwork-orange-1971",
+    "imdb_code": "tt0066921",
+    "title": "A Clockwork Orange",
+    "title_long": "A Clockwork Orange (1971)",
+    "slug": "a-clockwork-orange-1971",
+    "year": "1971",
+    "rating": "8.40",
+    "runtime": "136",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "X",
+    "background_image": "a-clockwork-orange-1971-background.jpg",
+    "small_cover_image": "a-clockwork-orange-1971-small-cover.jpg",
+    "medium_cover_image": "a-clockwork-orange-1971-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:57:14",
+    "date_uploaded_unix": 1446339434
+}

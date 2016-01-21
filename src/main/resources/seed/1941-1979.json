@@ -1,0 +1,22 @@
+{
+    "id": "18",
+    "url": "https://yts.ag/movie/1941-1979",
+    "imdb_code": "tt0078723",
+    "title": "1941",
+    "title_long": "1941 (1979)",
+    "slug": "1941-1979",
+    "year": "1979",
+    "rating": "5.90",
+    "runtime": "118",
+    "genres": [
+        "Action",
+        "Comedy",
+        "War"
+    ],
+    "language": "English",
+    "mpa_rating": "PG",
+    "background_image": "1941-1979-background.jpg",
+    "small_cover_image": "1941-1979-small-cover.jpg",
+    "medium_cover_image": "1941-1979-medium-cover.jpg",
+    "state": "ok"
+}

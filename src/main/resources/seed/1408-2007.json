@@ -1,0 +1,22 @@
+{
+    "id": "14",
+    "url": "https://yts.ag/movie/1408-2007",
+    "imdb_code": "tt0450385",
+    "title": "1408",
+    "title_long": "1408 (2007)",
+    "slug": "1408-2007",
+    "year": "2007",
+    "rating": "6.80",
+    "runtime": "104",
+    "genres": [
+        "Horror"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "1408-2007-background.jpg",
+    "small_cover_image": "1408-2007-small-cover.jpg",
+    "medium_cover_image": "1408-2007-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:47:25",
+    "date_uploaded_unix": 1446338845
+}

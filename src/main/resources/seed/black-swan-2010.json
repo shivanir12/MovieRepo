@@ -1,0 +1,23 @@
+{
+    "id": "496",
+    "url": "https://yts.ag/movie/black-swan-2010",
+    "imdb_code": "tt0947798",
+    "title": "Black Swan",
+    "title_long": "Black Swan (2010)",
+    "slug": "black-swan-2010",
+    "year": "2010",
+    "rating": "8.00",
+    "runtime": "108",
+    "genres": [
+        "Drama",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "black-swan-2010-background.jpg",
+    "small_cover_image": "black-swan-2010-small-cover.jpg",
+    "medium_cover_image": "black-swan-2010-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 22:01:29",
+    "date_uploaded_unix": 1446343289
+}

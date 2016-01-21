@@ -1,0 +1,24 @@
+{
+    "id": "25",
+    "url": "https://yts.ag/movie/2012-2009",
+    "imdb_code": "tt1190080",
+    "title": "2012",
+    "title_long": "2012 (2009)",
+    "slug": "2012-2009",
+    "year": "2009",
+    "rating": "5.80",
+    "runtime": "158",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "2012-2009-background.jpg",
+    "small_cover_image": "2012-2009-small-cover.jpg",
+    "medium_cover_image": "2012-2009-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:49:18",
+    "date_uploaded_unix": 1446338958
+}

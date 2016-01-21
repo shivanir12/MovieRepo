@@ -1,0 +1,23 @@
+{
+    "id": "36",
+    "url": "https://yts.ag/movie/28-weeks-later-2007",
+    "imdb_code": "tt0463854",
+    "title": "28 Weeks Later",
+    "title_long": "28 Weeks Later (2007)",
+    "slug": "28-weeks-later-2007",
+    "year": "2007",
+    "rating": "7.00",
+    "runtime": "100",
+    "genres": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "28-weeks-later-2007-background.jpg",
+    "small_cover_image": "28-weeks-later-2007-small-cover.jpg",
+    "medium_cover_image": "28-weeks-later-2007-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:51:29",
+    "date_uploaded_unix": 1446339089
+}

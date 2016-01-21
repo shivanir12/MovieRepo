@@ -1,0 +1,24 @@
+{
+    "id": "94",
+    "url": "https://yts.ag/movie/a-knights-tale-2001",
+    "imdb_code": "tt0183790",
+    "title": "A Knight's Tale",
+    "title_long": "A Knight's Tale (2001)",
+    "slug": "a-knights-tale-2001",
+    "year": "2001",
+    "rating": "6.90",
+    "runtime": "132",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "a-knights-tale-2001-background.jpg",
+    "small_cover_image": "a-knights-tale-2001-small-cover.jpg",
+    "medium_cover_image": "a-knights-tale-2001-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:59:20",
+    "date_uploaded_unix": 1446339560
+}

@@ -1,0 +1,24 @@
+{
+    "id": "90",
+    "url": "https://yts.ag/movie/a-good-year-2006",
+    "imdb_code": "tt0401445",
+    "title": "A Good Year",
+    "title_long": "A Good Year (2006)",
+    "slug": "a-good-year-2006",
+    "year": "2006",
+    "rating": "6.90",
+    "runtime": "117",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "a-good-year-2006-background.jpg",
+    "small_cover_image": "a-good-year-2006-small-cover.jpg",
+    "medium_cover_image": "a-good-year-2006-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:58:52",
+    "date_uploaded_unix": 1446339532
+}

@@ -1,0 +1,24 @@
+{
+    "id": "280",
+    "url": "https://yts.ag/movie/apollo-13-1995",
+    "imdb_code": "tt0112384",
+    "title": "Apollo 13",
+    "title_long": "Apollo 13 (1995)",
+    "slug": "apollo-13-1995",
+    "year": "1995",
+    "rating": "7.60",
+    "runtime": "140",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+    ],
+    "language": "English",
+    "mpa_rating": "PG",
+    "background_image": "apollo-13-1995-background.jpg",
+    "small_cover_image": "apollo-13-1995-small-cover.jpg",
+    "medium_cover_image": "apollo-13-1995-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:31:20",
+    "date_uploaded_unix": 1446341480
+}

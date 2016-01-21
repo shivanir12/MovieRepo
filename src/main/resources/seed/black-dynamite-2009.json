@@ -1,0 +1,23 @@
+{
+    "id": "487",
+    "url": "https://yts.ag/movie/black-dynamite-2009",
+    "imdb_code": "tt1190536",
+    "title": "Black Dynamite",
+    "title_long": "Black Dynamite (2009)",
+    "slug": "black-dynamite-2009",
+    "year": "2009",
+    "rating": "7.40",
+    "runtime": "84",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "black-dynamite-2009-background.jpg",
+    "small_cover_image": "black-dynamite-2009-small-cover.jpg",
+    "medium_cover_image": "black-dynamite-2009-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 22:00:29",
+    "date_uploaded_unix": 1446343229
+}

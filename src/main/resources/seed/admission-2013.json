@@ -1,0 +1,24 @@
+{
+    "id": "150",
+    "url": "https://yts.ag/movie/admission-2013",
+    "imdb_code": "tt1814621",
+    "title": "Admission",
+    "title_long": "Admission (2013)",
+    "slug": "admission-2013",
+    "year": "2013",
+    "rating": "5.70",
+    "runtime": "0",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "admission-2013-background.jpg",
+    "small_cover_image": "admission-2013-small-cover.jpg",
+    "medium_cover_image": "admission-2013-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:09:54",
+    "date_uploaded_unix": 1446340194
+}

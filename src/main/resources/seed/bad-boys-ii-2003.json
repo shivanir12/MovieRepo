@@ -1,0 +1,25 @@
+{
+    "id": "360",
+    "url": "https://yts.ag/movie/bad-boys-ii-2003",
+    "imdb_code": "tt0172156",
+    "title": "Bad Boys II",
+    "title_long": "Bad Boys II (2003)",
+    "slug": "bad-boys-ii-2003",
+    "year": "2003",
+    "rating": "6.50",
+    "runtime": "147",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "bad-boys-ii-2003-background.jpg",
+    "small_cover_image": "bad-boys-ii-2003-small-cover.jpg",
+    "medium_cover_image": "bad-boys-ii-2003-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:42:52",
+    "date_uploaded_unix": 1446342172
+}

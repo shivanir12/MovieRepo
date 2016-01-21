@@ -1,0 +1,26 @@
+{
+    "id": "22",
+    "url": "https://yts.ag/movie/2-guns-2013",
+    "imdb_code": "tt1272878",
+    "title": "2 Guns",
+    "title_long": "2 Guns (2013)",
+    "slug": "2-guns-2013",
+    "year": "2013",
+    "rating": "6.80",
+    "runtime": "109",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "2-guns-2013-background.jpg",
+    "small_cover_image": "2-guns-2013-small-cover.jpg",
+    "medium_cover_image": "2-guns-2013-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:48:52",
+    "date_uploaded_unix": 1446338932
+}

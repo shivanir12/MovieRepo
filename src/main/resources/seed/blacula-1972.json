@@ -1,0 +1,24 @@
+{
+    "id": "500",
+    "url": "https://yts.ag/movie/blacula-1972",
+    "imdb_code": "tt0068284",
+    "title": "Blacula",
+    "title_long": "Blacula (1972)",
+    "slug": "blacula-1972",
+    "year": "1972",
+    "rating": "5.60",
+    "runtime": "93",
+    "genres": [
+        "Horror",
+        "Romance",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "PG",
+    "background_image": "blacula-1972-background.jpg",
+    "small_cover_image": "blacula-1972-small-cover.jpg",
+    "medium_cover_image": "blacula-1972-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 22:01:54",
+    "date_uploaded_unix": 1446343314
+}

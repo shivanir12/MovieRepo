@@ -1,0 +1,24 @@
+{
+    "id": "353",
+    "url": "https://yts.ag/movie/back-to-the-future-1985",
+    "imdb_code": "tt0088763",
+    "title": "Back to the Future",
+    "title_long": "Back to the Future (1985)",
+    "slug": "back-to-the-future-1985",
+    "year": "1985",
+    "rating": "8.50",
+    "runtime": "116",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "PG",
+    "background_image": "back-to-the-future-1985-background.jpg",
+    "small_cover_image": "back-to-the-future-1985-small-cover.jpg",
+    "medium_cover_image": "back-to-the-future-1985-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:41:46",
+    "date_uploaded_unix": 1446342106
+}

@@ -1,0 +1,23 @@
+{
+    "id": "185",
+    "url": "https://yts.ag/movie/alien3-1992",
+    "imdb_code": "tt0103644",
+    "title": "Alien³",
+    "title_long": "Alien³ (1992)",
+    "slug": "alien3-1992",
+    "year": "1992",
+    "rating": "6.40",
+    "runtime": "114",
+    "genres": [
+        "Horror",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "alien3-1992-background.jpg",
+    "small_cover_image": "alien3-1992-small-cover.jpg",
+    "medium_cover_image": "alien3-1992-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:15:08",
+    "date_uploaded_unix": 1446340508
+}

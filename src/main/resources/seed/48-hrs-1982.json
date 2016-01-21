@@ -1,0 +1,24 @@
+{
+    "id": "53",
+    "url": "https://yts.ag/movie/48-hrs-1982",
+    "imdb_code": "tt0083511",
+    "title": "48 Hrs.",
+    "title_long": "48 Hrs. (1982)",
+    "slug": "48-hrs-1982",
+    "year": "1982",
+    "rating": "6.90",
+    "runtime": "96",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "48-hrs-1982-background.jpg",
+    "small_cover_image": "48-hrs-1982-small-cover.jpg",
+    "medium_cover_image": "48-hrs-1982-medium-cover.jpg",
+    "state": "ok"
+}

@@ -1,0 +1,24 @@
+{
+    "id": "88",
+    "url": "https://yts.ag/movie/a-good-man-2014",
+    "imdb_code": "tt3480556",
+    "title": "A Good Man",
+    "title_long": "A Good Man (2014)",
+    "slug": "a-good-man-2014",
+    "year": "2014",
+    "rating": "4.60",
+    "runtime": "100",
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "a-good-man-2014-background.jpg",
+    "small_cover_image": "a-good-man-2014-small-cover.jpg",
+    "medium_cover_image": "a-good-man-2014-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:58:37",
+    "date_uploaded_unix": 1446339517
+}

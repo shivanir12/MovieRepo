@@ -1,0 +1,25 @@
+{
+    "id": "342",
+    "url": "https://yts.ag/movie/avatar-2009",
+    "imdb_code": "tt0499549",
+    "title": "Avatar",
+    "title_long": "Avatar (2009)",
+    "slug": "avatar-2009",
+    "year": "2009",
+    "rating": "7.90",
+    "runtime": "162",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "avatar-2009-background.jpg",
+    "small_cover_image": "avatar-2009-small-cover.jpg",
+    "medium_cover_image": "avatar-2009-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:40:22",
+    "date_uploaded_unix": 1446342022
+}

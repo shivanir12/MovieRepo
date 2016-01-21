@@ -1,0 +1,26 @@
+{
+    "id": "373",
+    "url": "https://yts.ag/movie/balto-1995",
+    "imdb_code": "tt0112453",
+    "title": "Balto",
+    "title_long": "Balto (1995)",
+    "slug": "balto-1995",
+    "year": "1995",
+    "rating": "7.10",
+    "runtime": "0",
+    "genres": [
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Family",
+        "History"
+    ],
+    "language": "English",
+    "mpa_rating": "G",
+    "background_image": "balto-1995-background.jpg",
+    "small_cover_image": "balto-1995-small-cover.jpg",
+    "medium_cover_image": "balto-1995-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:44:18",
+    "date_uploaded_unix": 1446342258
+}

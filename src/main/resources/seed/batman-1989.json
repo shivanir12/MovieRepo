@@ -1,0 +1,23 @@
+{
+    "id": "388",
+    "url": "https://yts.ag/movie/batman-1989",
+    "imdb_code": "tt0096895",
+    "title": "Batman",
+    "title_long": "Batman (1989)",
+    "slug": "batman-1989",
+    "year": "1989",
+    "rating": "7.60",
+    "runtime": "126",
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "batman-1989-background.jpg",
+    "small_cover_image": "batman-1989-small-cover.jpg",
+    "medium_cover_image": "batman-1989-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:46:35",
+    "date_uploaded_unix": 1446342395
+}

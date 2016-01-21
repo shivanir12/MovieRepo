@@ -1,0 +1,23 @@
+{
+    "id": "293",
+    "url": "https://yts.ag/movie/arena-2011",
+    "imdb_code": "tt1117581",
+    "title": "Arena",
+    "title_long": "Arena (2011)",
+    "slug": "arena-2011",
+    "year": "2011",
+    "rating": "4.80",
+    "runtime": "94",
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "arena-2011-background.jpg",
+    "small_cover_image": "arena-2011-small-cover.jpg",
+    "medium_cover_image": "arena-2011-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:33:09",
+    "date_uploaded_unix": 1446341589
+}

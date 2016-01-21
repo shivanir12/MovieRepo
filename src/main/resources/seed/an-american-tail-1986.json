@@ -1,0 +1,26 @@
+{
+    "id": "239",
+    "url": "https://yts.ag/movie/an-american-tail-1986",
+    "imdb_code": "tt0090633",
+    "title": "An American Tail",
+    "title_long": "An American Tail (1986)",
+    "slug": "an-american-tail-1986",
+    "year": "1986",
+    "rating": "6.90",
+    "runtime": "80",
+    "genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Musical"
+    ],
+    "language": "English",
+    "mpa_rating": "G",
+    "background_image": "an-american-tail-1986-background.jpg",
+    "small_cover_image": "an-american-tail-1986-small-cover.jpg",
+    "medium_cover_image": "an-american-tail-1986-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:25:23",
+    "date_uploaded_unix": 1446341123
+}

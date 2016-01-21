@@ -1,0 +1,25 @@
+{
+    "id": "45",
+    "url": "https://yts.ag/movie/300-rise-of-an-empire-2014",
+    "imdb_code": "tt1253863",
+    "title": "300: Rise of an Empire",
+    "title_long": "300: Rise of an Empire (2014)",
+    "slug": "300-rise-of-an-empire-2014",
+    "year": "2014",
+    "rating": "6.30",
+    "runtime": "102",
+    "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "War"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "300-rise-of-an-empire-2014-background.jpg",
+    "small_cover_image": "300-rise-of-an-empire-2014-small-cover.jpg",
+    "medium_cover_image": "300-rise-of-an-empire-2014-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:53:08",
+    "date_uploaded_unix": 1446339188
+}

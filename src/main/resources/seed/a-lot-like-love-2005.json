@@ -1,0 +1,24 @@
+{
+    "id": "100",
+    "url": "https://yts.ag/movie/a-lot-like-love-2005",
+    "imdb_code": "tt0391304",
+    "title": "A Lot Like Love",
+    "title_long": "A Lot Like Love (2005)",
+    "slug": "a-lot-like-love-2005",
+    "year": "2005",
+    "rating": "6.60",
+    "runtime": "107",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "a-lot-like-love-2005-background.jpg",
+    "small_cover_image": "a-lot-like-love-2005-small-cover.jpg",
+    "medium_cover_image": "a-lot-like-love-2005-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:00:11",
+    "date_uploaded_unix": 1446339611
+}

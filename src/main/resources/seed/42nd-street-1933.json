@@ -1,0 +1,24 @@
+{
+    "id": "51",
+    "url": "https://yts.ag/movie/42nd-street-1933",
+    "imdb_code": "tt0024034",
+    "title": "42nd Street",
+    "title_long": "42nd Street (1933)",
+    "slug": "42nd-street-1933",
+    "year": "1933",
+    "rating": "7.70",
+    "runtime": "89",
+    "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+    ],
+    "language": "English",
+    "mpa_rating": "Unrated",
+    "background_image": "42nd-street-1933-background.jpg",
+    "small_cover_image": "42nd-street-1933-small-cover.jpg",
+    "medium_cover_image": "42nd-street-1933-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:54:03",
+    "date_uploaded_unix": 1446339243
+}

@@ -1,0 +1,23 @@
+{
+    "id": "154",
+    "url": "https://yts.ag/movie/aeon-flux-2005",
+    "imdb_code": "tt0402022",
+    "title": "Æon Flux",
+    "title_long": "Æon Flux (2005)",
+    "slug": "aeon-flux-2005",
+    "year": "2005",
+    "rating": "5.50",
+    "runtime": "93",
+    "genres": [
+        "Action",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "PG-13",
+    "background_image": "aeon-flux-2005-background.jpg",
+    "small_cover_image": "aeon-flux-2005-small-cover.jpg",
+    "medium_cover_image": "aeon-flux-2005-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:10:25",
+    "date_uploaded_unix": 1446340225
+}

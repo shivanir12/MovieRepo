@@ -1,0 +1,27 @@
+{
+    "id": "470",
+    "url": "https://yts.ag/movie/big-hero-6-2014",
+    "imdb_code": "tt2245084",
+    "title": "Big Hero 6",
+    "title_long": "Big Hero 6 (2014)",
+    "slug": "big-hero-6-2014",
+    "year": "2014",
+    "rating": "7.90",
+    "runtime": "102",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+    ],
+    "language": "English",
+    "mpa_rating": "PG",
+    "background_image": "big-hero-6-2014-background.jpg",
+    "small_cover_image": "big-hero-6-2014-small-cover.jpg",
+    "medium_cover_image": "big-hero-6-2014-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 21:58:07",
+    "date_uploaded_unix": 1446343087
+}

@@ -1,0 +1,23 @@
+{
+    "id": "12",
+    "url": "https://yts.ag/movie/13-sins-2014",
+    "imdb_code": "tt2059171",
+    "title": "13 Sins",
+    "title_long": "13 Sins (2014)",
+    "slug": "13-sins-2014",
+    "year": "2014",
+    "rating": "6.30",
+    "runtime": "93",
+    "genres": [
+        "Horror",
+        "Thriller"
+    ],
+    "language": "English",
+    "mpa_rating": "R",
+    "background_image": "13-sins-2014-background.jpg",
+    "small_cover_image": "13-sins-2014-small-cover.jpg",
+    "medium_cover_image": "13-sins-2014-medium-cover.jpg",
+    "state": "ok",
+    "date_uploaded": "2015-10-31 20:47:10",
+    "date_uploaded_unix": 1446338830
+}
