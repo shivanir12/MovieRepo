@@ -5,6 +5,7 @@ import com.shivani.citra.model.Movie;
 import com.shivani.citra.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,4 +27,8 @@ public class MovieController {
         return movieService.getAllMovies();
     }
 
+    @RequestMapping(value = "/movies", method = RequestMethod.POST)
+    public Movie saveMovie(@RequestBody Movie movie) {
+        return movieService.saveMovie(movie);
+    }
 }

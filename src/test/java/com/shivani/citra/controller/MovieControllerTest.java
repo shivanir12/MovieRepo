@@ -23,6 +23,21 @@ public class MovieControllerTest {
         List<Movie> actualMovies = movieController.getMovie();
 
         verify(movieService).getAllMovies();
-        assertEquals(actualMovies, expectedMovies);
+        assertEquals(expectedMovies, actualMovies);
+    }
+
+    @Test
+    public void shouldSaveMovie() throws Exception {
+        MovieService movieService = mock(MovieService.class);
+        Movie movieToSave = new Movie();
+        MovieController movieController = new MovieController(movieService);
+
+        Movie expectedMovie = new Movie(1L, "abc");
+        when(movieService.saveMovie(movieToSave)).thenReturn(expectedMovie);
+
+        Movie actualMovie = movieController.saveMovie(movieToSave);
+
+        verify(movieService).saveMovie(movieToSave);
+        assertEquals(expectedMovie, actualMovie);
     }
 }
