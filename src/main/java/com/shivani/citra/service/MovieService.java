@@ -3,10 +3,12 @@ package com.shivani.citra.service;
 import com.shivani.citra.model.Movie;
 import com.shivani.citra.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Service
 public class MovieService {
     private MovieRepository movieRepository;
 
