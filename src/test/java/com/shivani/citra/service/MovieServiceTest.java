@@ -26,4 +26,20 @@ public class MovieServiceTest {
         assertEquals(expectedMovies, movies);
         verify(movieRepository).findAll();
     }
+
+    @Test
+    public void shouldSaveMovie() throws Exception {
+
+        MovieRepository movieRepository = mock(MovieRepository.class);
+        Movie movieToSave = new Movie("abc");
+        Movie expectedMovie = new Movie(1L, "abc");
+        MovieService movieService = new MovieService(movieRepository);
+
+        when(movieRepository.save(movieToSave)).thenReturn(expectedMovie);
+
+        Movie actualMovie = movieService.saveMovie(movieToSave);
+
+        verify(movieRepository).save(movieToSave);
+        assertEquals(actualMovie, expectedMovie);
+    }
 }

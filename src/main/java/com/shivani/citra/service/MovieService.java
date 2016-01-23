@@ -22,4 +22,9 @@ public class MovieService {
         movieRepository.findAll().forEach(movies::add);
         return movies;
     }
+
+
+    public Movie saveMovie(Movie movieToSave) {
+        return movieRepository.save(movieToSave);
+    }
 }
