@@ -23,8 +23,11 @@ public class MovieService {
         return movies;
     }
 
-
     public Movie saveMovie(Movie movieToSave) {
         return movieRepository.save(movieToSave);
+    }
+
+    public Movie getSingleMovie(Long id) {
+        return movieRepository.findOne(id);
     }
 }
