@@ -26,7 +26,7 @@ public class MovieServiceTest {
 
         List<Movie> movies = movieService.getAllMovies();
 
-        assertEquals(expectedMovies.size(), movies.size());
+        assertEquals(expectedMovies, movies);
         verify(movieRepository).findAll();
     }
 }
