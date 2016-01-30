@@ -30,4 +30,15 @@ public class MovieService {
     public Movie getSingleMovie(Long id) {
         return movieRepository.findOne(id);
     }
+
+    public List<Movie> getAllMovies(int pageSize) {
+        List<Long> movieIds = new ArrayList<>();
+        List<Movie> movies = new ArrayList<>();
+        for (int i = 0; i < pageSize; i++) {
+            movieIds.add(new Long(i));
+            System.out.println(new Long(i));
+        }
+        movieRepository.findAll(movieIds).forEach(movies::add);
+        return movies;
+    }
 }
