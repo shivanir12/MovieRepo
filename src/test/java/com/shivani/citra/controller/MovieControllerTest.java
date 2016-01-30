@@ -55,4 +55,21 @@ public class MovieControllerTest {
         verify(movieService).getSingleMovie(movieId);
         assertEquals(expectedMovie, actualMovie);
     }
+
+    @Test
+    public void shouldGetMoviesForSpecificPageSize() throws Exception {
+        MovieService movieService = mock(MovieService.class);
+        int pageSize = 2;
+
+        List<Movie> expectedList = new ArrayList<>();
+        expectedList.add(new Movie(1L, "abc"));
+        expectedList.add(new Movie(2L, "def"));
+        when(movieService.getAllMovies(pageSize)).thenReturn(expectedList);
+
+        MovieController movieController = new MovieController(movieService);
+        List<Movie> actualList = movieController.getMovie(pageSize);
+
+        verify(movieService).getAllMovies(pageSize);
+        assertEquals(expectedList, actualList);
+    }
 }

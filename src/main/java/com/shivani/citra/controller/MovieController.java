@@ -33,4 +33,9 @@ public class MovieController {
     public Movie getSingleMovie(@PathVariable Long id) {
         return movieService.getSingleMovie(id);
     }
+
+    @RequestMapping(value = "/movies", method = RequestMethod.GET)
+    public List<Movie> getMovie(@RequestParam(value = "pageSize", required = false) int pageSize) {
+        return movieService.getAllMovies(pageSize);
+    }
 }
