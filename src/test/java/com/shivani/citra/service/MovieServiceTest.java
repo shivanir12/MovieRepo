@@ -42,18 +42,19 @@ public class MovieServiceTest {
     }
 
     @Test
-    public void shouldReturnMovieListSpecifiedByPageSize() throws Exception {
+    public void shouldReturnMovieListSpecifiedByPageNumberAndPageSize() throws Exception {
         MovieRepository movieRepository = mock(MovieRepository.class);
         int pageSize = 2;
+        int pageNumber = 2;
         List<Movie> expectedMovies = new ArrayList<>();
         expectedMovies.add(new Movie(1L, "abc"));
         List<Long> movieIds = new ArrayList<>();
-        movieIds.add(0L);
-        movieIds.add(1L);
+        movieIds.add(3L);
+        movieIds.add(4L);
         when(movieRepository.findAll(movieIds)).thenReturn(expectedMovies);
 
         MovieService movieService = new MovieService(movieRepository);
-        List<Movie> actualMovies = movieService.getAllMovies(pageSize);
+        List<Movie> actualMovies = movieService.getAllMovies(pageNumber, pageSize);
 
         verify(movieRepository).findAll(movieIds);
         assertEquals(expectedMovies, actualMovies);

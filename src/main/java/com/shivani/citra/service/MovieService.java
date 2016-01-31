@@ -25,10 +25,14 @@ public class MovieService {
         return movieRepository.findOne(id);
     }
 
-    public List<Movie> getAllMovies(int pageSize) {
+    public List<Movie> getAllMovies(int pageNumber, int pageSize) {
+        if(pageNumber > 0)
+            pageNumber -= 1;
+        int startMovieId = (pageSize*pageNumber)+1;
+        int endMovieId = (pageNumber+1)*pageSize;
         List<Long> movieIds = new ArrayList<>();
         List<Movie> movies = new ArrayList<>();
-        for (int i = 0; i < pageSize; i++) {
+        for (int i = startMovieId; i <= endMovieId; i++) {
             movieIds.add(new Long(i));
             System.out.println(new Long(i));
         }
