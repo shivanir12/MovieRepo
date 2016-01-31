@@ -34,7 +34,6 @@ public class MovieService {
         List<Movie> movies = new ArrayList<>();
         for (int i = startMovieId; i <= endMovieId; i++) {
             movieIds.add(new Long(i));
-            System.out.println(new Long(i));
         }
         movieRepository.findAll(movieIds).forEach(movies::add);
         return movies;

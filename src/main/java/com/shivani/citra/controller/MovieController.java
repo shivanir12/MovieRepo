@@ -30,9 +30,12 @@ public class MovieController {
     }
 
     @RequestMapping(value = "/movies", method = RequestMethod.GET)
-    public List<Movie> getMovie(@RequestParam(value = "pageSize", required = false) Integer pageSize) {
-        if(pageSize == null)
+    public List<Movie> getMovie(@RequestParam(value = "pageNumber", required = false) Integer pageNumber,
+                                @RequestParam(value = "pageSize", required = false) Integer pageSize) {
+        if(pageSize == null || pageSize > 500)
             pageSize = 20;
-        return movieService.getAllMovies(pageSize);
+        if(pageNumber == null || pageNumber > 500/pageSize)
+            pageNumber = 1;
+        return movieService.getAllMovies(pageNumber, pageSize);
     }
 }
