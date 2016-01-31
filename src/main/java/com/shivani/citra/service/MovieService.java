@@ -17,12 +17,6 @@ public class MovieService {
         this.movieRepository = movieRepository;
     }
 
-    public List<Movie> getAllMovies() {
-        List<Movie> movies = new ArrayList<>();
-        movieRepository.findAll().forEach(movies::add);
-        return movies;
-    }
-
     public Movie saveMovie(Movie movieToSave) {
         return movieRepository.save(movieToSave);
     }

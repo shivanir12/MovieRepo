@@ -11,20 +11,6 @@ import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.*;
 
 public class MovieControllerTest {
-    @Test
-    public void shouldGetAllMovies() throws Exception {
-        MovieService movieService = mock(MovieService.class);
-
-        List<Movie> expectedMovies = new ArrayList<>();
-        expectedMovies.add(new Movie(1L, "abc"));
-
-        when(movieService.getAllMovies()).thenReturn(expectedMovies);
-        MovieController movieController = new MovieController(movieService);
-        List<Movie> actualMovies = movieController.getMovie();
-
-        verify(movieService).getAllMovies();
-        assertEquals(expectedMovies, actualMovies);
-    }
 
     @Test
     public void shouldSaveMovie() throws Exception {

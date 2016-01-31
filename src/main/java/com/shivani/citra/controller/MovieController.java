@@ -19,11 +19,6 @@ public class MovieController {
         this.movieService = movieService;
     }
 
-    @RequestMapping(value = "/movies", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Movie> getMovie() {
-        return movieService.getAllMovies();
-    }
-
     @RequestMapping(value = "/movies", method = RequestMethod.POST)
     public Movie saveMovie(@RequestBody Movie movie) {
         return movieService.saveMovie(movie);
