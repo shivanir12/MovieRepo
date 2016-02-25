@@ -5,8 +5,10 @@ import com.shivani.citra.repository.MovieRepository;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,8 +17,10 @@ import java.net.URISyntaxException;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-@SpringBootApplication
-public class Application {
+@ComponentScan
+@EnableAutoConfiguration
+@Configuration
+public class Application{
 
     public static void main(String[] args) throws FileNotFoundException, URISyntaxException {
         ApplicationContext ctx = SpringApplication.run(Application.class, args);
@@ -35,7 +39,5 @@ public class Application {
         });
 
         Stream.of(movieRepository.findAll()).forEach(movies -> System.out.println(movies.toString()));
-
     }
-
 }
