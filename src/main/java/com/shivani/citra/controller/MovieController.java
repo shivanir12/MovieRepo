@@ -19,16 +19,19 @@ public class MovieController {
         this.movieService = movieService;
     }
 
+    @CrossOrigin
     @RequestMapping(value = "/movies", method = RequestMethod.POST)
     public Movie saveMovie(@RequestBody Movie movie) {
         return movieService.saveMovie(movie);
     }
 
+    @CrossOrigin
     @RequestMapping(value = "/movies/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public Movie getSingleMovie(@PathVariable Long id) {
         return movieService.getSingleMovie(id);
     }
 
+    @CrossOrigin
     @RequestMapping(value = "/movies", method = RequestMethod.GET)
     public List<Movie> getMovie(@RequestParam(value = "pageNumber", required = false) Integer pageNumber,
                                 @RequestParam(value = "pageSize", required = false) Integer pageSize) {
